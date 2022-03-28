@@ -1,0 +1,10 @@
+slime = 1
+skelton = 2
+goblin = 3
+
+def randomnum():
+    import random
+    print(random.randint(1,3))
+
+if randomnum == 1
+    print("slime")
